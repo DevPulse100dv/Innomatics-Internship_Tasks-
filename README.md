@@ -1,6 +1,5 @@
 # Innomatics-Internship_Tasks-
-Intern Name: Rakshitha DV
-Intern ID: IN126026602
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Logic Building Task - 1
 Data Science Internship - February 2026
